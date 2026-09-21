@@ -16,4 +16,4 @@ Kolom Form: Nama game, Genre, Rating
 Gambar: ML.webp, Roblox.webp
 
 
-Penggunaaan AI: mempercantik tataan koding
+Penggunaaan AI: merapikan tataan koding
