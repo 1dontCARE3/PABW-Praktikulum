@@ -1,7 +1,7 @@
 # PABW-Praktikulum
 PABW — Hilmy Qabus — 25523111
 
-Topik halaman saya adalah daftar game favorit saya
+* Topik halaman saya adalah daftar game favorit saya
 
 Deskripsi: Halaman yang berisi daftar game favorit dan game yang sering saya mainkan
 
