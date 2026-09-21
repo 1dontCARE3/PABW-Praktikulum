@@ -14,3 +14,6 @@ Kolom Tabel: Nama Game, Genre, Rating, Tahun Rilis
 Kolom Form: Nama game, Genre, Rating
 
 Gambar: ML.webp, Roblox.webp
+
+
+Penggunaaan AI: mempercantik
